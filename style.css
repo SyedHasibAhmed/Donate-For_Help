@@ -1,0 +1,143 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+
+}
+
+.background-image {
+    background-image: url(images/donation1.jpg);
+
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.color {
+    color: white;
+}
+
+.link-button {
+    text-decoration: none;
+    color: white;
+    padding: 20px 20px;
+    border-radius: 5px;
+    background-image: linear-gradient(orange, tomato);
+    font-weight: 700;
+}
+
+.today {
+    text-align: center;
+}
+
+section {
+
+    margin-bottom: 100px;
+}
+
+.other {
+    text-align: center;
+
+}
+
+
+.flex-container>div {
+    background-color: DodgerBlue;
+    color: white;
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
+
+.plan {
+    text-align: center;
+}
+
+section {
+    display: flex;
+    margin-top: 100px;
+}
+
+.half-width {
+    width: 33.33%;
+    padding-left: 5%;
+    padding-right: 5%;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 3%;
+    margin-right: 3%;
+    border-radius: 7%;
+}
+
+.food {
+    background-color: beige;
+}
+
+.shelter {
+    background-color: aquamarine;
+}
+
+.frame {
+    background-color: antiquewhite;
+}
+
+.how-to-contribute {
+    text-decoration: none;
+    color: white;
+    padding: 20px 20px;
+    border-radius: 5px;
+    background-image: linear-gradient(orange, tomato);
+    font-weight: 700;
+}
+
+.poor {
+    width: 30%;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-left: 3%;
+    margin-right: 5%;
+
+
+}
+
+.poor img {
+    width: 100%;
+}
+
+.well {
+    margin-top: 150px;
+}
+
+.update {
+    text-align: center;
+}
+
+.step {
+    font-size: 50px;
+}
+
+.sub {
+    color: white;
+    background-color: red;
+}
+
+.email {
+    text-align: center;
+    background-color: burlywood;
+    margin-bottom: 100px;
+
+}
+
+.be {
+    text-align: center;
+    background-color: black;
+}
+
+.hum {
+    color: red;
+    font-size: 40px;
+}
+
+.do {
+    color: white;
+}
