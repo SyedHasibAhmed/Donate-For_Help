@@ -199,6 +199,10 @@ section {
 
 }
 
+.mc {
+    color: red;
+}
+
 .be {
     text-align: center;
     background-color: black;
